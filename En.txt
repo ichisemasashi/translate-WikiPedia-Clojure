@@ -6,12 +6,19 @@ Not to be confused with Clozure CL, Google Closure Tools, or Closure (computer p
 Clojure
 Clojure logo.svg
 Paradigm	functional
+パラダイム    	関数型言語
 Designed by	Rich Hickey
+設計者	Rich Hickey
 First appeared	2007; 9 years ago
-Stable release	
+登場時期 2007年(9年前)
+Stable release
+安定したリリース
 1.8[1] / January 19, 2016; 9 months ago
+1.8 / 2016年1月19日（10か月前）
 Typing discipline	dynamic, strong
+型システム  動的型付け, 強い型付け
 Platform	JVM, CLR, JavaScript
+プラットフォーム (コンピューティング) Java仮想マシン、共通言語ランタイム、JavaScript engine
 License	Eclipse Public License
 Filename extensions	.clj, .cljs, .cljc, .edn
 Website	clojure.org
@@ -28,7 +35,7 @@ Clojure encourages immutability and immutable data structures. While its type sy
 Clojure is used in industry by firms such as Walmart,[18] Puppet Labs,[19] and other large software firms.[20] Commercial support for Clojure is provided by Cognitect.[20] Annual Clojure conferences are organised every year across the globe, the most famous of them being Clojure/conj (US east coast),[21] Clojure/West (US west coast),[22] and EuroClojure (Europe).[23]
 The latest stable version of Clojure is 1.8,[24] released on January 19, 2016. The first stable release was version 1.0, released on May 4, 2009.[25] Clojure is free software released under the Eclipse Public License.[26]
 
-Contents  [hide] 
+Contents  [hide]
 1	History and development process
 2	Design philosophy
 3	Features
@@ -168,6 +175,3 @@ TryClojure – An online REPL for Clojure
 Clojure on infoq.com
 Clojure community and resources on Facebook
 R.Hickey presentation "Are We There Yet?" where he advocates for the reexamination of basic principles like state, identity, value, time, types, genericity, complexity, as they are used by OOP. 2009
-
-
-
